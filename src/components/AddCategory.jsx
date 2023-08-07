@@ -4,7 +4,7 @@ import { InputComponent } from './InputComponent'
 export const AddCategory = ({ setCategories }) => {
 
     const addCategory = ( newCategory ) => {
-        console.log('add category', newCategory);
+        // console.log('add category', newCategory);
         // const newCategory = 'Nueva Categoria';
         setCategories(categories => [newCategory, ...categories]);
     }

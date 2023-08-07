@@ -9,7 +9,7 @@ export const getGifs = async ( category ) => {
         title: img.title,
         url: img.images.fixed_height_small_still.url,
     }))
-    console.log('gifs', gifs);
+    // console.log('gifs', gifs);
 
     return gifs;
 }
