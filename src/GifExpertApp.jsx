@@ -11,8 +11,9 @@ export const GifExpertApp = () => {
 
             {/* titulo  */}
             <div className="main-title">
-                <img height={50} src="../public/gif-file.png" alt="GifExpertAllLogo"/>
+                <img src="../public/gif-file.png" alt="GifExpertAllLogo"/>
                 <h1>GifExpertApp</h1>
+
             </div>
 
             {/* Input Text  */}

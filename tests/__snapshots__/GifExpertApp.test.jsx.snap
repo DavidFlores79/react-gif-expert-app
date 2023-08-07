@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifExpertApp.jsx Debe ser igual al snapshot 1`] = `
+<div>
+  <div
+    class="main-title"
+  >
+    <img
+      alt="GifExpertAllLogo"
+      src="../public/gif-file.png"
+    />
+    <h1>
+      GifExpertApp
+    </h1>
+  </div>
+  <div>
+    <form
+      aria-label="form"
+    >
+      <input
+        placeholder="Buscar Gifs"
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+</div>
+`;

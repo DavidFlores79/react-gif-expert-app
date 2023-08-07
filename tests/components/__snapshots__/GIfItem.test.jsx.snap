@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en Gif item debe ser igual que el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="GOT"
+      src="https:got.com/imagen.png"
+    />
+    <p>
+      GOT
+    </p>
+  </div>
+</div>
+`;
